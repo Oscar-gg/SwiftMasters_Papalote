@@ -1,0 +1,6 @@
+[submodule "Webapp_Papalote"]
+	path = Webapp_Papalote
+	url = https://github.com/Ale-Coeto/Webapp_Papalote.git
+[submodule "App_Papalote"]
+	path = App_Papalote
+	url = https://github.com/joalgueflo/App_Papalote.git
