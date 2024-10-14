@@ -12,7 +12,7 @@ This project aims to create a platform that allows users to interact with Papalo
 | ----------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------ | --------- |
 | Alejandra Coeto | [](mailto:) | [@](https://github.com/) | Programmer |
 | Rodrigo García | [](mailto:) | [@](https://github.com/) | Programmer |
-| Oscar Zhao | [](mailto:) | [@](https://github.com/) | Programmer |
+| Oscar Zhao | [](mailto:oscarzhaoxu@gmail.com) | [@](https://github.com/Oscar21122) | Programmer |
 | José Alejandro Guerrero | [](mailto:) | [@](https://github.com/) | Programmer |
 | Oscar Arreola | [oscar.arreola.jr@gmail.com](mailto:oscar.arreola.jr@gmail.com) | [@Oscar-gg](https://github.com/Oscar-gg) | Programmer |
 
